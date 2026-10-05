@@ -1,0 +1,5 @@
+metric,sample,count,mean,median,standard_deviation,25th_percentile,75th_percentile
+cc1_total_cost_pct,benchmark_available,60072,5.749662738047676,4.49,4.707790848238427,2.84,7.02
+cc1_total_cost_pct,full_sample,197982,6.580294606521407,5.07,6.068858405108855,3.13,8.19
+cc1_fx_margin,benchmark_available,60072,1.7664669063790117,1.27,2.0192434816670564,0.51,2.47
+cc1_fx_margin,full_sample,197982,2.1224505258053763,1.47,2.829450617453191,0.33,3.07

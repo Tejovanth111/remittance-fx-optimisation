@@ -1,0 +1,9 @@
+benchmark_unavailable_reason,count,pct_of_unavailable,pct_of_all_observations
+destination_bis_rate_missing,63793,46.251948522747874,32.218849590149446
+source_bis_rate_ambiguous,28797,20.87873844480696,14.54401284854974
+source_bis_rate_ambiguous_and_destination_bis_rate_missing,21235,15.39604857712525,10.724801640412325
+both_bis_rates_missing,15342,11.123436650353453,7.748523982444356
+destination_currency_ambiguous,5350,3.8789197027369946,2.7020338486558013
+both_bis_rates_ambiguous,1324,0.959941997462389,0.6686902459103329
+destination_bis_rate_ambiguous,1271,0.9215153162950879,0.6419224339516866
+source_bis_rate_missing,813,0.5894507884719956,0.4106081343845171

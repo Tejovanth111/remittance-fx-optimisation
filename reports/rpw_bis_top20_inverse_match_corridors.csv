@@ -1,0 +1,5 @@
+corridor,direct_match,inverse_match,neither_match,ambiguous,observations,matched_direct_or_inverse,observed_match_orientations,orientation_consistency
+THACHN,319,35,124,0,478,354,2,both_direct_and_inverse_matches
+THAIND,390,18,192,0,600,408,2,both_direct_and_inverse_matches
+THAIDN,297,7,171,0,475,304,2,both_direct_and_inverse_matches
+ZAFCHN,170,1,124,0,295,171,2,both_direct_and_inverse_matches

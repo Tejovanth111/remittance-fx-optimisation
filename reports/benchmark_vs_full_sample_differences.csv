@@ -1,0 +1,3 @@
+metric,mean_difference_benchmarked_minus_full,median_difference_benchmarked_minus_full
+cc1_total_cost_pct,-0.8306318684737306,-0.5800000000000001
+cc1_fx_margin,-0.3559836194263646,-0.19999999999999996

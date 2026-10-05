@@ -1,0 +1,8 @@
+check,passed
+row count,True
+zero duplicate IDs,True
+28 benchmark columns,True
+expected benchmark column names/order,True
+date range,True
+benchmark-available count,True
+benchmark-unavailable count,True
